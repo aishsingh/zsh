@@ -1,7 +1,7 @@
 Dirnavigate
 ===========
 
-dirnavigate is a modified zsh theme of the original dircycle plugin from oh-my-zsh.
+dirnavigate is a modified zsh plugin originally from the dircycle plugin in oh-my-zsh.
 I created this plugin because i didn't like using popd and pushd to remember directories in a stack but instead just wanted to move forwards and backwards through directories.
 
 Requirements
