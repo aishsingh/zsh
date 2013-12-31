@@ -1,0 +1,10 @@
+##
+# enables navigating through directorys
+# using Ctrl+Shift+Left/Right
+
+eval "insert-cycledleft () { cd .. > /dev/null 2>&1; zle accept-line }"
+zle -N insert-cycledleft
+bindkey "\e[1;6D" insert-cycledleft
+eval "insert-cycledright () { popd > /dev/null 2>&1; zle accept-line }"
+zle -N insert-cycledright
+bindkey "\e[1;6C" insert-cycledright
