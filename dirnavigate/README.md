@@ -20,3 +20,7 @@ Controls
 --------
 **Ctrl+Shift+Left**  <-  move back a directory  
 **Ctrl+Shift+Right**  ->  move forward a directory
+
+Screenshot
+----------
+![alt tag](sample.png)
