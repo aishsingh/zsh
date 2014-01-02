@@ -1,3 +1,3 @@
-zsh
-===
-Zsh plugins and themes I created by modifing existing ones
+______________________________________________________________________________
+Zsh plugins and themes I created by modifing existing ones the way i like them
+______________________________________________________________________________
