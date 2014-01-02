@@ -9,3 +9,7 @@ Install
 2. `sudo cp path-to-folder/frisk-red/frisk-red.zsh-theme /usr/share/oh-my-zsh/themes/frisk-red.zsh-theme`
 3. Then edit your .zshrc to `ZSH_THEME="frisk-red"`  
 4. Finally restart your zsh shell.
+
+Screenshot
+----------
+![alt tag](sample.png)
