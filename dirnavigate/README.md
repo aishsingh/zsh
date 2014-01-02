@@ -11,13 +11,12 @@ Requirements
 
 Install
 -------
-cd /usr/share/oh-my-zsh/custom/plugin/
-sudo git clone <git url>
-
-then edit your .zshrc to add
-plugins=(dirnavigate)
+1. `git clone` this rep into a directory or just download a zip and extract into a folder
+2. `sudo cp -r path-to-folder/dirnavigate /usr/share/oh-my-zsh/custom/plugin/dirnavigate`  
+3. Then edit your .zshrc to add `plugins=(dirnavigate)`  
+4. Finally restart your zsh shell.
 
 Controls
 --------
-Ctrl+Left   move back a directory
-Ctrl+Right    move forward a directory
+**Ctrl+Shift+Left**  <-  move back a directory  
+**Ctrl+Shift+Right**  ->  move forward a directory
