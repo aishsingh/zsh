@@ -1,3 +1,8 @@
+----------------
+WARNING: plugin does not seem to be working for me after reinstalling my os
+tell me if it working for you
+----------------
+
 Dirnavigate
 ===========
 
